@@ -1,0 +1,3 @@
+[submodule "cs6703p2"]
+	path = cs6703p2
+	url = git://github.com/bobboau/project2.git
